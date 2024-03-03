@@ -22,14 +22,14 @@ Adjust the test scripts to connect to the Selenium Grid hub and specify browser 
 To run the tests you need to write 3 commands in the terminal.
 
 terminal 2 + 3 to run selenium grid.
-terminal 1 : 
-pip"your python version" install selenium
-in my case : pip3 install selenium
+terminal 1 :   .
+pip"your python version" install selenium .
+in my case : pip3 install selenium .
 
-to check if the selenium is downloaded you need to write in the terminal : pip show selenium
+to check if the selenium is downloaded you need to write in the terminal : pip show selenium  .
 
-terminal 2 : java -jar selenium-server-4.17.0.jar hub 
-terminal 3 : java -jar selenium-server-4.17.0.jar node --config node1.toml
+terminal 2 : java -jar selenium-server-4.17.0.jar hub   .
+terminal 3 : java -jar selenium-server-4.17.0.jar node --config node1.toml    .
 
 **I want to mention that GitHub hosts STP and STD documents that contain all the necessary information about the project**
 
