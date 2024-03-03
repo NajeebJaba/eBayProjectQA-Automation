@@ -19,7 +19,8 @@ Ensure Selenium Grid is set up and running either locally or remotely.
 Configure the desired capabilities for Chrome, Firefox, and Edge browsers.
 Adjust the test scripts to connect to the Selenium Grid hub and specify browser configurations.
 
-To run the tests you need to write 3 commands in the terminal.
+ <br To run the tests you need to write 3 commands in the terminal. /> 
+
 terminal 2 + 3 to run selenium grid.
 terminal 1 : 
 pip"your python version" install selenium
