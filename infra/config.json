@@ -1,0 +1,30 @@
+{
+  "url": "https://www.ebay.com/",
+  "user_name": "ggvb4445",
+  "password": "najeeb1234",
+  "hub_url": "http://localhost:4444/wd/hub",
+  "grid": true,
+  "serial": false,
+  "browser": "chrome",
+  "platform": "windows",
+  "browser_types": ["chrome", "firefox", "edge"],
+  "search_item": "macbook pro m2 mac",
+  "item_id": "114674591564",
+  "shop_by_category": {
+    "sporting_goods": "https://il.ebay.com/b/Sporting-Goods/888/bn_1865031",
+    "team_sports": "Team Sports",
+    "soccer": "https://il.ebay.com/b/Soccer-Equipment/20862/bn_1941947",
+    "balls": "Balls",
+    "ball_size": "5"
+  },
+  "filters": {
+    "RAM Size": "32 GB",
+    "SSD Capacity": "1TB",
+    "Processor": "Apple M2 Max"
+  },
+  "checkout_test": {
+    "card_number": "4734868958733862",
+    "expiration_date": "1228",
+    "security_code": "624"
+  }
+}
